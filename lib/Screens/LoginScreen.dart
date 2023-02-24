@@ -1,11 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:latest/Screens/S.dart';
-import 'package:latest/Screens/SplashScreen.dart';
 import 'package:latest/Widgets/CustomButton.dart';
-import 'package:animations/animations.dart';
-import 'package:splashscreen/splashscreen.dart';
-
-import '../TransitionScreen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
